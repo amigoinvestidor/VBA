@@ -1,8 +1,9 @@
+' cores.cls
 Public AzulEscuro As Long, AzulEscuro1 As Long, AzulClaro As Long, VerdeEscuro As Long, VerdeClaro As Long, VerdeClaro2 As Long, _
-        VerdeClaro3 As Long, VerdeClaro4 As Long, CinzaEscuro As Long, CinzaClaro As Long, VermelhoEscuro As Long, _
-        VermelhoClaro As Long, AmareloEscuro As Long, AmareloClaro As Long, Branco As Long, Preto As Long, _
-        SemCor As Long
-        
+       VerdeClaro3 As Long, VerdeClaro4 As Long, CinzaEscuro As Long, CinzaClaro As Long, VermelhoEscuro As Long, _
+       VermelhoClaro As Long, AmareloEscuro As Long, AmareloClaro As Long, Branco As Long, Preto As Long, _
+       SemCor As Long
+
 Public Sub Cores()
     AzulEscuro = RGB(7, 79, 105)
     AzulEscuro1 = RGB(70, 180, 220)
